@@ -1,1 +1,1 @@
-# Website-Blocker-Extension---Chrome
+# Website Blocker Chrome Extension
